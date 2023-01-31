@@ -1,0 +1,551 @@
+{
+            "type": "carousel",
+            "contents": [
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "2:3",
+                "gravity": "top"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "weight": "bold",
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "塔羅牌解析",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-1px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm",
+                        "action": {
+                          "type": "postback",
+                          "label": "action",
+                          "data": "0"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "40px"
+                  }
+                ],
+                "position": "absolute",
+                "offsetBottom": "18px",
+                "offsetStart": "20px",
+                "offsetEnd": "10px",
+                "backgroundColor": "#03303Acc",
+                "paddingAll": "15px",
+                "paddingTop": "20px"
+              }
+            ],
+            "paddingAll": "15px"
+            }
+            },
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "2:3",
+                "gravity": "top"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "weight": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "塔羅牌解析",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px"
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm",
+                        "action": {
+                          "type": "postback",
+                          "label": "action",
+                          "data": "1"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "40px"
+                  }
+                ],
+                "position": "absolute",
+                "offsetBottom": "18px",
+                "offsetStart": "20px",
+                "offsetEnd": "20px",
+                "backgroundColor": "#03303Acc",
+                "paddingAll": "15px",
+                "paddingTop": "20px"
+              }
+            ],
+            "paddingAll": "15px"
+            }
+            },
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "2:3",
+                    "gravity": "top"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "",
+                            "size": "xl",
+                            "color": "#ffffff",
+                            "weight": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "filler"
+                              },
+                              {
+                                "type": "text",
+                                "text": "塔羅牌解析",
+                                "color": "#ffffff",
+                                "flex": 0,
+                                "offsetTop": "-2px"
+                              },
+                              {
+                                "type": "filler"
+                              }
+                            ],
+                            "spacing": "sm",
+                            "action": {
+                              "type": "postback",
+                              "label": "action",
+                              "data": "2"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px",
+                        "cornerRadius": "4px",
+                        "spacing": "sm",
+                        "borderColor": "#ffffff",
+                        "margin": "xxl",
+                        "height": "40px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "offsetBottom": "0px",
+                    "offsetStart": "0px",
+                    "offsetEnd": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingAll": "20px",
+                    "paddingTop": "18px"
+                  }
+                ],
+                "paddingAll": "0px"
+              }
+            ]
+            }
+            },
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "2:3",
+                    "gravity": "top"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "",
+                            "size": "xl",
+                            "color": "#ffffff",
+                            "weight": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "filler"
+                              },
+                              {
+                                "type": "text",
+                                "text": "塔羅牌解析",
+                                "color": "#ffffff",
+                                "flex": 0,
+                                "offsetTop": "-2px"
+                              },
+                              {
+                                "type": "filler"
+                              }
+                            ],
+                            "spacing": "sm",
+                            "action": {
+                              "type": "postback",
+                              "label": "action",
+                              "data": "3"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px",
+                        "cornerRadius": "4px",
+                        "spacing": "sm",
+                        "borderColor": "#ffffff",
+                        "margin": "xxl",
+                        "height": "40px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "offsetBottom": "0px",
+                    "offsetStart": "0px",
+                    "offsetEnd": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingAll": "20px",
+                    "paddingTop": "18px"
+                  }
+                ],
+                "paddingAll": "0px"
+              }
+            ]
+            }
+            },
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "2:3",
+                    "gravity": "top"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "",
+                            "size": "xl",
+                            "color": "#ffffff",
+                            "weight": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "filler"
+                              },
+                              {
+                                "type": "text",
+                                "text": "塔羅牌解析",
+                                "color": "#ffffff",
+                                "flex": 0,
+                                "offsetTop": "-2px"
+                              },
+                              {
+                                "type": "filler"
+                              }
+                            ],
+                            "spacing": "sm",
+                            "action": {
+                              "type": "postback",
+                              "label": "action",
+                              "data": "4"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px",
+                        "cornerRadius": "4px",
+                        "spacing": "sm",
+                        "borderColor": "#ffffff",
+                        "margin": "xxl",
+                        "height": "40px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "offsetBottom": "0px",
+                    "offsetStart": "0px",
+                    "offsetEnd": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingAll": "20px",
+                    "paddingTop": "18px"
+                  }
+                ],
+                "paddingAll": "0px"
+              }
+            ]
+            }
+            },
+            {
+            "type": "bubble",
+            "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "2:3",
+                    "gravity": "top"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "",
+                            "size": "xl",
+                            "color": "#ffffff",
+                            "weight": "bold"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "filler"
+                              },
+                              {
+                                "type": "text",
+                                "text": "塔羅牌解析",
+                                "color": "#ffffff",
+                                "flex": 0,
+                                "offsetTop": "-2px"
+                              },
+                              {
+                                "type": "filler"
+                              }
+                            ],
+                            "spacing": "sm",
+                            "action": {
+                              "type": "postback",
+                              "label": "action",
+                              "data": "5"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "borderWidth": "1px",
+                        "cornerRadius": "4px",
+                        "spacing": "sm",
+                        "borderColor": "#ffffff",
+                        "margin": "xxl",
+                        "height": "40px"
+                      }
+                    ],
+                    "position": "absolute",
+                    "offsetBottom": "0px",
+                    "offsetStart": "0px",
+                    "offsetEnd": "0px",
+                    "backgroundColor": "#03303Acc",
+                    "paddingAll": "20px",
+                    "paddingTop": "18px"
+                  }
+                ],
+                "paddingAll": "0px"
+              }
+            ]
+            }
+            }
+            ]
+            }
